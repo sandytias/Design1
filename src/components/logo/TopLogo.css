@@ -1,0 +1,27 @@
+.toplog {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    
+}
+
+.logo1 {
+    height: 80px;
+    margin-right: 10px;
+    border-radius: 100%;
+}
+
+.logo2 {
+    height: 80px;
+    margin-left: 10px;
+}
+
+.kiri {
+    height: 500px;
+    float: left;
+}
+
+.kanan {
+    height: 50px;
+    float: right;
+}

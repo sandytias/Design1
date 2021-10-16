@@ -1,0 +1,47 @@
+.background {
+    background-color: 	#808080;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.catlog2 {
+    height: 100px;
+}
+
+.catlog1 {
+    height: 70px;
+    border-radius: 100px;
+    margin-left: 200px;
+}
+
+ul.ulcat {
+    list-style: none;
+    display: flex;
+    font-size: 30px;
+    float: left;
+    padding-right: 90px;
+}
+
+li.instagram {
+    border-style: ridge;
+    padding: 1px 3px 3px 3px;   
+}
+
+li.facebook {
+    border-style: ridge;
+    padding: 1px 3px 3px 3px;   
+}
+
+li.youtube {
+    border-style: ridge;
+    padding: 1px 3px 3px 3px;   
+}
+
+li.insta {
+    border-style: ridge;
+    padding: 1px 3px 3px 3px;   
+}
+
+.category {
+    color: honeydew;
+}

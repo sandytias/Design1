@@ -1,0 +1,184 @@
+.body {
+    display: flexbox;
+    justify-content: space-between;
+}
+
+.sideleft {
+    float: left;
+    padding-left: 150px;
+    
+}
+
+.sideright {
+    float: right;
+    padding-right: 150px;
+    
+}
+
+.side {
+    height: 500px;
+    width: 120px;
+}
+
+.main p {
+    box-sizing: border-box;
+}
+
+h5.biru {
+    margin-right: 800px;
+    color: blue;
+}
+
+.main h2 {
+    padding-right: 300px;
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 5px;
+}
+
+p {
+    text-align: left;
+}
+
+.trending {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gambar {
+    height: 500px;
+    width: 700px;
+    float: left;
+}
+
+figcaption {
+    position: absolute;
+    bottom: 300px;
+    color: green;
+    margin-left: 400px;
+    font-size: large;
+}
+
+.ulbody {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    float: left;
+    margin: auto;
+}
+
+li.kotak {
+    border-style: ridge;
+    height: 30px;
+    width: 70px;
+    padding: 1px;
+}
+
+li.taggs {
+    background-color: grey;
+    border-style: ridge;
+    width: 70px;
+}
+
+.trending {
+    border-style: ridge;
+    text-align: left;
+}
+
+.trending h4 {
+    font-weight: bold;
+}
+
+.trend {
+    border-style: ridge;
+}
+
+.number1 {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 100%;
+    opacity: 0.6;
+}
+
+.number2 {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 100%;
+    opacity: 0.6;
+}
+
+.number3 {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 100%;
+    opacity: 0.6;
+}
+
+.number4 {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 100%;
+    opacity: 0.6;
+}
+
+span.hijau {
+    color: #32CD32
+}
+
+.teks {
+    font-weight: bold;
+}
+
+.judul {
+    margin-top: auto;
+}
+
+.foto {
+    height: 80px;
+    width: 120px;
+    border-radius: 10%;
+}
+
+.index {
+    border-style: ridge;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.index h4 {
+    font-weight: bold;
+}
+
+.indexing {
+    border-style: ridge;
+}
+
+.artikel {
+    text-align: left;
+}
+
+.duasatu {
+    margin-bottom: 10px;
+}
+
+
+.mini {
+    font-size: 15px;
+    font-style: italic;
+    
+}
